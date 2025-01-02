@@ -1,3 +1,4 @@
 Projeto APP - Bloco de Notas
 
-![image](https://github.com/user-attachments/assets/f23e9b05-c76a-4584-b805-6dcfd0c68666)
+![Captura de tela 2025-01-02 185549](https://github.com/user-attachments/assets/73568307-a919-4cdc-b2c6-81f33a292c03)
+

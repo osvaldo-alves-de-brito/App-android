@@ -15,4 +15,9 @@ Tela para adicionar uma nova anotação
 
 ![telaNovaAnotacao](https://github.com/user-attachments/assets/bad29d78-da7e-47d1-9a5e-dba6d7553d14)
 
+Tela para editar e deletar a anotação
+
+![telaDeEditar_Deletar](https://github.com/user-attachments/assets/483adfbd-d47b-49d5-aea9-cc0ce91a1d5b)
+
+
 

@@ -1,4 +1,6 @@
-Projeto APP - Bloco de Notas
+#Projeto APP - Bloco de Notas
 
-![Captura de tela 2025-01-02 185549](https://github.com/user-attachments/assets/73568307-a919-4cdc-b2c6-81f33a292c03)
+O foco deste projeto foi aprender desenvolver apps android utilizando banco de dados SQLite
 
+As funcionalidades principais deste app são inseri, ler, atualizar e deletar dados no app,
+tendo tambem a funcionalidade de ordenação das anotações pelo titulo.
